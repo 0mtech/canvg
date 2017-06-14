@@ -5,6 +5,6 @@
   "keywords": ["javascript", "client", "browser", "svg", "canvas"],
   "ignore" : ["examples", "svgs"],
   "dependencies": {
-    "rgb-color": "ariutta/rgb-color"
+    "rgb-color": "0mtech/rgb-color"
   }
 }
